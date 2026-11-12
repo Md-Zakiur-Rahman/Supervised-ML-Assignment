@@ -1,0 +1,14 @@
+# Core package versions observed in the project QA environment (Python 3.14.4).
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# Notebook runtime used for reproducible interactive execution.
+notebook==7.6.3
+ipykernel==7.4.0
+
+# Planned Flask demo dependency; the app is not implemented yet.
+Flask==3.1.3

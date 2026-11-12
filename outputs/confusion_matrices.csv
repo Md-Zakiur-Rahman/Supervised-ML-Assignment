@@ -1,0 +1,6 @@
+Model,True negative,False positive,False negative,True positive
+Logistic Regression,146,19,23,80
+Decision Tree,142,23,31,72
+KNN (k=5),138,27,32,71
+Random Forest (tuned),150,15,29,74
+Gradient Boosting (tuned),148,17,32,71
